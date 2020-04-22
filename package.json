@@ -40,7 +40,7 @@
   "devDependencies": {
     "@elastic/eslint-config-kibana": "link:../../kibana/packages/eslint-config-kibana",
     "@elastic/eslint-import-resolver-kibana": "^0.9.0",
-    "@elastic/eui": "^0.0.39",
+    "@elastic/eui": "^9.2.1",
     "@kbn/plugin-helpers": "link:../../kibana/packages/kbn-plugin-helpers/",
     "babel-eslint": "^8.0.2",
     "eslint": "^4.11.0",
