@@ -4,14 +4,14 @@
   "description": "Conveyor",
   "main": "index.js",
   "kibana": {
-    "version": "7.6.2",
+    "version": "6.5.1",
     "templateVersion": "1.0.0"
   },
   "scripts": {
     "preinstall": "node ../../kibana/preinstall_check.js",
     "kbn": "node ../../kibana/scripts/kbn",
     "lint": "eslint **/*.js",
-    "start": "KIBANA_ROOT=../../kibana plugin-helpers start",
+    "start": "plugin-helpers start",
     "test:server": "plugin-helpers test:server",
     "test:browser": "plugin-helpers test:browser",
     "build": "plugin-helpers build"
