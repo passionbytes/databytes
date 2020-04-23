@@ -1,4 +1,4 @@
-ARG ELASTIC_TAG=6.5.1
+ARG ELASTIC_TAG=6.3.0
 # https://github.com/elastic/kibana-docker
 FROM docker.elastic.co/kibana/kibana:${ELASTIC_TAG}
 ARG ELASTIC_TAG
