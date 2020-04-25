@@ -621,8 +621,8 @@
     ],
     "hasDashboards": false,
     "hasAlerts": false,
-    "hasLearning": false,
-    "id": "-_MtHGMBvIUPJ7a7N4Sg"
+    "hasLearning": true,
+    "id": "-_MtHGMBvIUPJ7a7N4SR"
   },
   {
     "deprecated": false,
